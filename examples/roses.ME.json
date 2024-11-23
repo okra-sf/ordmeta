@@ -1,0 +1,2422 @@
+[
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci1",
+    "meta": {
+      "name": "Rose #1",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci2",
+    "meta": {
+      "name": "Rose #2",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci3",
+    "meta": {
+      "name": "Rose #3",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci4",
+    "meta": {
+      "name": "Rose #4",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci5",
+    "meta": {
+      "name": "Rose #5",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci6",
+    "meta": {
+      "name": "Rose #6",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci7",
+    "meta": {
+      "name": "Rose #7",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci8",
+    "meta": {
+      "name": "Rose #8",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci9",
+    "meta": {
+      "name": "Rose #9",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci10",
+    "meta": {
+      "name": "Rose #10",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci11",
+    "meta": {
+      "name": "Rose #11",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 1"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci12",
+    "meta": {
+      "name": "Rose #12",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci13",
+    "meta": {
+      "name": "Rose #13",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci14",
+    "meta": {
+      "name": "Rose #14",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci15",
+    "meta": {
+      "name": "Rose #15",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci16",
+    "meta": {
+      "name": "Rose #16",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci17",
+    "meta": {
+      "name": "Rose #17",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci18",
+    "meta": {
+      "name": "Rose #18",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci19",
+    "meta": {
+      "name": "Rose #19",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci20",
+    "meta": {
+      "name": "Rose #20",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci21",
+    "meta": {
+      "name": "Rose #21",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci22",
+    "meta": {
+      "name": "Rose #22",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 2"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci23",
+    "meta": {
+      "name": "Rose #23",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci24",
+    "meta": {
+      "name": "Rose #24",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci25",
+    "meta": {
+      "name": "Rose #25",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci26",
+    "meta": {
+      "name": "Rose #26",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci27",
+    "meta": {
+      "name": "Rose #27",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci28",
+    "meta": {
+      "name": "Rose #28",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci29",
+    "meta": {
+      "name": "Rose #29",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci30",
+    "meta": {
+      "name": "Rose #30",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci31",
+    "meta": {
+      "name": "Rose #31",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci32",
+    "meta": {
+      "name": "Rose #32",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci33",
+    "meta": {
+      "name": "Rose #33",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 3"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci34",
+    "meta": {
+      "name": "Rose #34",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci35",
+    "meta": {
+      "name": "Rose #35",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci36",
+    "meta": {
+      "name": "Rose #36",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci37",
+    "meta": {
+      "name": "Rose #37",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci38",
+    "meta": {
+      "name": "Rose #38",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci39",
+    "meta": {
+      "name": "Rose #39",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci40",
+    "meta": {
+      "name": "Rose #40",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci41",
+    "meta": {
+      "name": "Rose #41",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci42",
+    "meta": {
+      "name": "Rose #42",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci43",
+    "meta": {
+      "name": "Rose #43",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci44",
+    "meta": {
+      "name": "Rose #44",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 4"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci45",
+    "meta": {
+      "name": "Rose #45",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci46",
+    "meta": {
+      "name": "Rose #46",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci47",
+    "meta": {
+      "name": "Rose #47",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci48",
+    "meta": {
+      "name": "Rose #48",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci49",
+    "meta": {
+      "name": "Rose #49",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci50",
+    "meta": {
+      "name": "Rose #50",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci51",
+    "meta": {
+      "name": "Rose #51",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci52",
+    "meta": {
+      "name": "Rose #52",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci53",
+    "meta": {
+      "name": "Rose #53",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci54",
+    "meta": {
+      "name": "Rose #54",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci55",
+    "meta": {
+      "name": "Rose #55",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 5"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci56",
+    "meta": {
+      "name": "Rose #56",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci57",
+    "meta": {
+      "name": "Rose #57",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci58",
+    "meta": {
+      "name": "Rose #58",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci59",
+    "meta": {
+      "name": "Rose #59",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci60",
+    "meta": {
+      "name": "Rose #60",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci61",
+    "meta": {
+      "name": "Rose #61",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci62",
+    "meta": {
+      "name": "Rose #62",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci63",
+    "meta": {
+      "name": "Rose #63",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci64",
+    "meta": {
+      "name": "Rose #64",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci65",
+    "meta": {
+      "name": "Rose #65",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci66",
+    "meta": {
+      "name": "Rose #66",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 6"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci67",
+    "meta": {
+      "name": "Rose #67",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci68",
+    "meta": {
+      "name": "Rose #68",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci69",
+    "meta": {
+      "name": "Rose #69",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci70",
+    "meta": {
+      "name": "Rose #70",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci71",
+    "meta": {
+      "name": "Rose #71",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci72",
+    "meta": {
+      "name": "Rose #72",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci73",
+    "meta": {
+      "name": "Rose #73",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci74",
+    "meta": {
+      "name": "Rose #74",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci75",
+    "meta": {
+      "name": "Rose #75",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci76",
+    "meta": {
+      "name": "Rose #76",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci77",
+    "meta": {
+      "name": "Rose #77",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 7"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci78",
+    "meta": {
+      "name": "Rose #78",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci79",
+    "meta": {
+      "name": "Rose #79",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci80",
+    "meta": {
+      "name": "Rose #80",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci81",
+    "meta": {
+      "name": "Rose #81",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci82",
+    "meta": {
+      "name": "Rose #82",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci83",
+    "meta": {
+      "name": "Rose #83",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci84",
+    "meta": {
+      "name": "Rose #84",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci85",
+    "meta": {
+      "name": "Rose #85",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci86",
+    "meta": {
+      "name": "Rose #86",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci87",
+    "meta": {
+      "name": "Rose #87",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci88",
+    "meta": {
+      "name": "Rose #88",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 8"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci89",
+    "meta": {
+      "name": "Rose #89",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci90",
+    "meta": {
+      "name": "Rose #90",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci91",
+    "meta": {
+      "name": "Rose #91",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci92",
+    "meta": {
+      "name": "Rose #92",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci93",
+    "meta": {
+      "name": "Rose #93",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci94",
+    "meta": {
+      "name": "Rose #94",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci95",
+    "meta": {
+      "name": "Rose #95",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci96",
+    "meta": {
+      "name": "Rose #96",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci97",
+    "meta": {
+      "name": "Rose #97",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci98",
+    "meta": {
+      "name": "Rose #98",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci99",
+    "meta": {
+      "name": "Rose #99",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 9"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci100",
+    "meta": {
+      "name": "Rose #100",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci101",
+    "meta": {
+      "name": "Rose #101",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci102",
+    "meta": {
+      "name": "Rose #102",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci103",
+    "meta": {
+      "name": "Rose #103",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci104",
+    "meta": {
+      "name": "Rose #104",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci105",
+    "meta": {
+      "name": "Rose #105",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci106",
+    "meta": {
+      "name": "Rose #106",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci107",
+    "meta": {
+      "name": "Rose #107",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci108",
+    "meta": {
+      "name": "Rose #108",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci109",
+    "meta": {
+      "name": "Rose #109",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci110",
+    "meta": {
+      "name": "Rose #110",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 10"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci111",
+    "meta": {
+      "name": "Rose #111",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "1 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "1: Rose Red on Sage Green"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci112",
+    "meta": {
+      "name": "Rose #112",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "2 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "2: Blueprint on Paper"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci113",
+    "meta": {
+      "name": "Rose #113",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "3 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "3: Golden Yellow on Deep Purple"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci114",
+    "meta": {
+      "name": "Rose #114",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "4 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "4: Hot Pink on Key Lime"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci115",
+    "meta": {
+      "name": "Rose #115",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "5 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "5: Salmon on Dark Teal"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci116",
+    "meta": {
+      "name": "Rose #116",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "6 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "6: Dusk Pink on Midnight"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci117",
+    "meta": {
+      "name": "Rose #117",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "7 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "7: Magenta on Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci118",
+    "meta": {
+      "name": "Rose #118",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "8 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "8: Lavender on Dark Slate Gray"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci119",
+    "meta": {
+      "name": "Rose #119",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "9 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "9: Marigold Yellow on Slate Blue"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci120",
+    "meta": {
+      "name": "Rose #120",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "10 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "10: Peach Puff on Saddle Brown"
+        },
+        {
+          "trait_type": "noise",
+          "value": "smooth"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebc5816eb429ea02b8e9041dc5f06d401e807e906331c491508b51439ccfci121",
+    "meta": {
+      "name": "Rose #121",
+      "attributes": [
+        {
+          "trait_type": "k",
+          "value": "11 / 11"
+        },
+        {
+          "trait_type": "palette",
+          "value": "11: Goldenrod on Lilac"
+        },
+        {
+          "trait_type": "noise",
+          "value": "jagged"
+        }
+      ]
+    }
+  }
+]

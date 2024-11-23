@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "traits.schema.json",
+  "type": "object",
+  "properties": {
+    "k": {
+      "type": "string"
+    },
+    "palette": {
+      "type": "string",
+      "enum": [
+        "1: Rose Red on Sage Green",
+        "2: Blueprint on Paper",
+        "3: Golden Yellow on Deep Purple",
+        "4: Hot Pink on Key Lime",
+        "5: Salmon on Dark Teal",
+        "6: Dusk Pink on Midnight",
+        "7: Magenta on Gray",
+        "8: Lavender on Dark Slate Gray",
+        "9: Marigold Yellow on Slate Blue",
+        "10: Peach Puff on Saddle Brown",
+        "11: Goldenrod on Lilac"
+      ]
+    },
+    "noise": {
+      "type": "string",
+      "enum": [
+        "jagged",
+        "smooth"
+      ]
+    }
+  },
+  "required": [
+    "k",
+    "palette",
+    "noise"
+  ]
+}
