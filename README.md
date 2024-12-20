@@ -4,36 +4,36 @@
 
 PURPOSE: conversation starter for inscribing Collection Metadata
 
-The Problems:
+Use Cases:
 
-1. Many current collection do not use parent-child to establish membership
-2. Collection metadata is managed in marketplace-specific ways
-3. Evolving Art collections can't update member metadata directly
+1. Legacy - Many current collection do not use parent-child to establish membership
+2. On-Demand Fair & Free Minting - anybody mints according to rules that may include a time cutoff for closing the collection
+3. Unfied Metadata Management - Collection metadata is managed in marketplace-specific ways
+4. Upgradeable Metadata - Evolving Art collections can't update member metadata directly
 
+Proposed Direction:
 
-Solution Prototype:
-
-An obvious direction is to establish consensus on a simple, yet sufficiently expressive standard for collection metadata publishing via an inscription.
+Establish consensus a simple, yet sufficiently expressive standard for collection metadata publishing via an inscription.
 The vocab and the level of complexity wants to be more "microformat" like than say, RDF, or a more complex standard.
 
-* To stay in keeping with ordinals, JSON for the metadata format/sytax makes sense.
+* JSON for the metadata format/sytax.
 * The "vocab" for the format would be minimal & extensible upfront.
 * Collection specific vocab i.e. metadata fields & types could be describe with JSON Schema & also be inscribed.
-* Tooling based on such JSON Schema's can support creator usage.
+* Tooling based on such JSON Schemas can support creator usage.
 * Ord-based compression provides for efficient block space usage.
-* Ord extension is not be necessary or useful for initial exploration
+* Immediate Ord protocol or client extension is not necessary for initial exploration
 
-This method can support "after the fact" publishing of collection membership and item metadata.
+This method can support "after the fact" publishing of collection membership and item metadata and the other use cases listed above.
 
-It separates out the problem of establishing conventions/standards/practices for find the "official" or "authorized" collection metadata.
+It separates out the problem of establishing conventions/standards declaring the "official" or "authorized" collection metadata.
 
 Further Thoughts
-* Use Reinscription on the initial metadata inscription to update the collection as necessary
+* Use Reinscription on the initial metadata inscription to update the collection metadata as necessary
 * Burning the collection metadata inscription can seal it as would be the case with a parent in parent-child provenance
 
 ## Quick Test Run Session
 
-Run this to generate concrete example of outputs which make the rest easier to understand.
+Run this to generate concrete example of outputs which make the direction easy to understand.
 
 ```
 yarn install
